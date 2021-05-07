@@ -4,5 +4,6 @@ Este repositório contém todos os códigos desenvolvimentos em sala de aula do 
 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
 
-### Aulas
+### Aulas/Tópicos
 1. [Tutorial sobre Python](https://github.com/xavecoding/IFSP-CMP-INTI6-2021.1/tree/main/tutorial_python)
+2. [Análise Exploratória de Dados](https://github.com/xavecoding/IFSP-CMP-INTI6-2021.1/tree/main/analise_exploratoria_de_dados)
